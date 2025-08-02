@@ -24,11 +24,6 @@ Built using **CrewAI**, this project demonstrates multi-agent collaboration with
 
 ---
 
-## ▶️ Demo Video
-[Click to Watch Demo](https://your-video-link.com)
-
----
-
 ## 📚 How to Run
 
 ```bash
